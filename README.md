@@ -62,12 +62,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aswinsankartk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsankartk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="42%"/>
-
-<br/>
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=aswinsankartk&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" width="65%"/>
 
 </div>
